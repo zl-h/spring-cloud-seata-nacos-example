@@ -1,0 +1,33 @@
+server:
+  port: 10100
+
+dubbo:
+  registry:
+    # 挂载到 Spring Cloud 注册中心
+    address: spring-cloud://localhost
+  cloud:
+    subscribed-services: sca-provider
+  consumer:
+    check: false
+
+spring:
+  service:
+    disableGlobalTransaction: false
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://127.0.0.1:8306/yuhb-test?characterEncoding=UTF-8&useUnicode=true&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+    username: root
+    password: Hzl206135!
+  cloud:
+    loadbalancer:
+      ribbon:
+        enabled: true
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+#seata:
+#  tx-service-group: sca-customer
+#  service:
+#    vgroup-mapping:
+#      sca-customer: default
+#    grouplist:
+#      default: 127.0.0.1:8091

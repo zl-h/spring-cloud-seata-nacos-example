@@ -1,0 +1,92 @@
+2020-04-12 09:09:33,939 INFO {POS} {IP-DISABLED} valid: 192.168.0.3:18080@DEFAULT@DEFAULT_GROUP@@sca-provider, region: unknown, msg: client timeout after 15000, last beat: 1586653756643
+
+2020-04-12 09:09:48,947 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-12 09:09:48,947 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 
+
+2020-04-12 09:11:21,861 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:11:21,861 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 192.168.0.3:18080_true,
+
+2020-04-12 09:12:01,300 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:12:01,300 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 
+
+2020-04-12 09:12:01,906 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:12:01,906 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 
+
+2020-04-12 09:12:44,474 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:12:44,474 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 192.168.0.3:18080_true,
+
+2020-04-12 09:12:49,878 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:12:49,878 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 192.168.0.3:10100_true,
+
+2020-04-12 09:13:58,877 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:13:58,877 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 
+
+2020-04-12 09:13:59,835 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:13:59,835 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 
+
+2020-04-12 09:18:50,306 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:18:50,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 192.168.0.3:18080_true,
+
+2020-04-12 09:18:55,780 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:18:55,780 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 192.168.0.3:10100_true,
+
+2020-04-12 09:19:24,229 INFO {POS} {IP-DISABLED} valid: 192.168.0.3:18080@DEFAULT@DEFAULT_GROUP@@sca-provider, region: unknown, msg: client timeout after 15000, last beat: 1586654345313
+
+2020-04-12 09:19:27,377 INFO service: DEFAULT_GROUP@@sca-provider {POS} {IP-ENABLED} valid: 192.168.0.3:18080@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-12 09:19:42,876 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:19:42,876 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 
+
+2020-04-12 09:20:13,721 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 09:20:13,721 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 192.168.0.3:18080_true,
+
+2020-04-12 10:36:06,246 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 10:36:06,246 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 
+
+2020-04-12 10:36:20,905 INFO {POS} {IP-DISABLED} valid: 192.168.0.3:18080@DEFAULT@DEFAULT_GROUP@@sca-provider, region: unknown, msg: client timeout after 15000, last beat: 1586658961254
+
+2020-04-12 10:36:22,550 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 192.168.0.3:18080_false,
+
+2020-04-12 10:36:26,784 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 10:36:26,784 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 192.168.0.3:10100_true,
+
+2020-04-12 10:36:27,540 INFO service: DEFAULT_GROUP@@sca-provider {POS} {IP-ENABLED} valid: 192.168.0.3:18080@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-12 10:44:24,472 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 10:44:24,472 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 
+
+2020-04-12 10:44:24,601 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 10:44:24,601 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 
+
+2020-04-12 10:48:43,398 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 10:48:43,398 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 192.168.0.3:18080_true,
+
+2020-04-12 10:48:48,331 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 10:48:48,331 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 192.168.0.3:10100_true,
+
+2020-04-12 12:20:40,924 INFO DEFAULT_GROUP@@sca-customer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:10100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 12:20:40,924 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-customer, ips: 
+
+2020-04-12 12:20:43,719 INFO DEFAULT_GROUP@@sca-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.3:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-12 12:20:43,719 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sca-provider, ips: 
+

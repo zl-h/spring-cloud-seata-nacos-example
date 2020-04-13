@@ -1,0 +1,10 @@
+1、maven编译打包方式
+mvn -Prelease-nacos -Dmaven.test.skip=true clean install -U
+2、进入distribution目录下的target找到对应的bin下的start.cmd
+
+
+禁止直接启动
+console下的Nacos启动main方法
+
+启动方式尽量不要以源码的方式启动
+

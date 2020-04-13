@@ -1,0 +1,34 @@
+2020-04-09 17:15:58,889 INFO initializing Raft sub-system
+
+2020-04-09 17:15:58,890 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2020-04-09 17:15:58,893 INFO cache loaded, datum count: 0, current term: 0
+
+2020-04-09 17:15:58,893 INFO finish to load data from disk, cost: 4 ms.
+
+2020-04-09 17:15:58,900 INFO raft notifier started
+
+2020-04-09 17:15:58,783 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.0.3","key":"192.168.0.3:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-04-09 17:15:58,905 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-04-09 17:15:58,913 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.0.3","key":"192.168.0.3:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-09 17:15:59,660 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-04-09 17:15:59,681 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-04-09 17:16:03,777 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.0.3","key":"192.168.0.3:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-09 17:16:03,777 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.0.3","key":"192.168.0.3:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-09 17:16:03,777 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.0.3","key":"192.168.0.3:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-09 17:16:06,899 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.0.3","key":"192.168.0.3:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-09 21:36:11,657 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@serverAddr
+
+2020-04-09 21:47:30,701 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@sca-provider
+
+2020-04-09 21:48:26,017 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@sca-customer
+

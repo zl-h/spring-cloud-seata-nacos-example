@@ -1,0 +1,2 @@
+如何自己修改源码后打包seata-server
+mvn clean install -DskipTests=true -P release-seata

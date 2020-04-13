@@ -1,0 +1,730 @@
+2020-04-11 09:10:45,186 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:11:00,203 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:13:05,119 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:16:10,307 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:16:25,315 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:16:44,891 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:17:00,322 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:17:15,331 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:17:33,284 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:26:25,505 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:26:40,516 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:27:21,893 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:29:05,564 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:29:20,583 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:29:23,541 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:30:58,752 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:31:40,625 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:31:55,633 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 09:33:00,888 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 10:00:51,234 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 10:01:06,226 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 10:01:40,289 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 10:01:56,239 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 10:02:11,254 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 10:29:04,583 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:19:55,609 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 14:19:55,609 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49674, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49674,85542119809200
+
+2020-04-11 14:19:55,609 INFO send udp packet: 192.168.0.3,49674,85542119809200
+
+2020-04-11 14:19:55,655 INFO received ack: {"type": "push-ack", "lastRefTime":"85542119809200", "data":""} from: 192.168.0.3:49674, cost: 46 ms, unacked: 0, total push: 1
+
+2020-04-11 14:20:11,170 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 14:20:11,170 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49674, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49674,85557679605200
+
+2020-04-11 14:20:11,170 INFO send udp packet: 192.168.0.3,49674,85557679605200
+
+2020-04-11 14:20:11,171 INFO received ack: {"type": "push-ack", "lastRefTime":"85557679605200", "data":""} from: 192.168.0.3:49674, cost: 1 ms, unacked: 0, total push: 2
+
+2020-04-11 14:20:35,215 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:20:48,800 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:22:00,955 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:22:15,833 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:26:23,449 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:26:36,729 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:30:32,149 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:30:47,161 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:31:11,322 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:49:44,033 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:49:59,574 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 14:50:14,637 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 14:50:14,983 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:50:28,517 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 14:51:14,662 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 14:51:14,850 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:51:27,729 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 14:51:34,790 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:56:28,185 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:56:39,927 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:56:43,675 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:56:54,381 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:59:23,726 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 14:59:36,776 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:01:57,606 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:02:10,913 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:03:55,952 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:03:55,952 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:64788, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,64788,88182362821800
+
+2020-04-11 15:03:55,952 INFO send udp packet: 192.168.0.3,64788,88182362821800
+
+2020-04-11 15:03:55,960 INFO received ack: {"type": "push-ack", "lastRefTime":"88182362821800", "data":""} from: 192.168.0.3:64788, cost: 8 ms, unacked: 0, total push: 3
+
+2020-04-11 15:04:55,245 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:04:55,245 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:64788, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,64788,88241653744500
+
+2020-04-11 15:04:55,245 INFO send udp packet: 192.168.0.3,64788,88241653744500
+
+2020-04-11 15:04:55,249 INFO received ack: {"type": "push-ack", "lastRefTime":"88241653744500", "data":""} from: 192.168.0.3:64788, cost: 4 ms, unacked: 0, total push: 4
+
+2020-04-11 15:06:56,720 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:07:04,316 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:07:11,889 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:07:16,600 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:09:03,142 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:09:07,965 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:21:45,487 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:21:48,422 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:22:00,498 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:22:01,622 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:22:03,431 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:22:44,234 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:22:55,521 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:22:55,521 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51540, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51540,89321893940700
+
+2020-04-11 15:22:55,521 INFO send udp packet: 192.168.0.3,51540,89321893940700
+
+2020-04-11 15:22:55,532 INFO received ack: {"type": "push-ack", "lastRefTime":"89321893940700", "data":""} from: 192.168.0.3:51540, cost: 11 ms, unacked: 0, total push: 5
+
+2020-04-11 15:23:10,534 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:23:10,534 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51540, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51540,89336907378500
+
+2020-04-11 15:23:10,534 INFO send udp packet: 192.168.0.3,51540,89336907378500
+
+2020-04-11 15:23:10,538 INFO received ack: {"type": "push-ack", "lastRefTime":"89336907378500", "data":""} from: 192.168.0.3:51540, cost: 4 ms, unacked: 0, total push: 6
+
+2020-04-11 15:28:25,008 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:28:25,008 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:28:25,008 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51540, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51540,89651370081400
+
+2020-04-11 15:28:25,008 INFO send udp packet: 192.168.0.3,51540,89651370081400
+
+2020-04-11 15:28:35,010 INFO retry to push data, key: 192.168.0.3,51540,89651370081400
+
+2020-04-11 15:28:35,010 INFO send udp packet: 192.168.0.3,51540,89651370081400
+
+2020-04-11 15:28:39,576 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:28:45,012 INFO retry to push data, key: 192.168.0.3,51540,89651370081400
+
+2020-04-11 15:28:45,221 WARN max re-push times reached, retry times 2, key: 192.168.0.3,51540,89651370081400
+
+2020-04-11 15:29:07,104 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 15:32:57,913 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:36:28,384 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 15:45:13,114 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 17:02:36,331 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 17:24:14,208 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 17:24:14,323 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 17:24:14,324 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:50884, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,50884,96600438579900
+
+2020-04-11 17:24:14,324 INFO send udp packet: 192.168.0.3,50884,96600438579900
+
+2020-04-11 17:24:24,385 INFO retry to push data, key: 192.168.0.3,50884,96600438579900
+
+2020-04-11 17:24:24,386 INFO send udp packet: 192.168.0.3,50884,96600438579900
+
+2020-04-11 17:24:28,768 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 17:24:31,763 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 17:24:34,391 INFO retry to push data, key: 192.168.0.3,50884,96600438579900
+
+2020-04-11 17:24:34,391 WARN max re-push times reached, retry times 2, key: 192.168.0.3,50884,96600438579900
+
+2020-04-11 20:33:17,668 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:33:30,275 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:34:04,362 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:34:14,853 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:35:12,796 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:35:23,523 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:35:53,837 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:36:03,884 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:36:45,617 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:36:55,209 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:38:08,282 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:38:08,282 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:56734, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,56734,108233947886600
+
+2020-04-11 20:38:08,282 INFO send udp packet: 192.168.0.3,56734,108233947886600
+
+2020-04-11 20:38:08,292 INFO received ack: {"type": "push-ack", "lastRefTime":"108233947886600", "data":""} from: 192.168.0.3:56734, cost: 10 ms, unacked: 0, total push: 9
+
+2020-04-11 20:38:20,489 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:38:20,489 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:56734, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,56734,108246154214100
+
+2020-04-11 20:38:20,489 INFO send udp packet: 192.168.0.3,56734,108246154214100
+
+2020-04-11 20:38:20,492 INFO received ack: {"type": "push-ack", "lastRefTime":"108246154214100", "data":""} from: 192.168.0.3:56734, cost: 3 ms, unacked: 0, total push: 10
+
+2020-04-11 20:44:58,703 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:44:58,703 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:56734, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,56734,108644364377000
+
+2020-04-11 20:44:58,703 INFO send udp packet: 192.168.0.3,56734,108644364377000
+
+2020-04-11 20:44:58,818 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:45:08,704 INFO retry to push data, key: 192.168.0.3,56734,108644364377000
+
+2020-04-11 20:45:08,704 INFO send udp packet: 192.168.0.3,56734,108644364377000
+
+2020-04-11 20:45:13,898 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:45:18,182 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:45:18,707 INFO retry to push data, key: 192.168.0.3,56734,108644364377000
+
+2020-04-11 20:45:18,707 WARN max re-push times reached, retry times 2, key: 192.168.0.3,56734,108644364377000
+
+2020-04-11 20:45:32,894 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:45:33,020 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:45:46,996 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:45:52,245 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:46:13,679 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:46:16,707 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:47:58,698 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:47:58,832 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:48:12,557 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:48:17,212 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:58:23,940 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:58:24,050 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 20:58:24,050 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49240, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49240,109449696819400
+
+2020-04-11 20:58:24,050 INFO send udp packet: 192.168.0.3,49240,109449696819400
+
+2020-04-11 20:58:34,053 INFO retry to push data, key: 192.168.0.3,49240,109449696819400
+
+2020-04-11 20:58:34,053 INFO send udp packet: 192.168.0.3,49240,109449696819400
+
+2020-04-11 20:58:40,281 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 20:58:44,056 INFO retry to push data, key: 192.168.0.3,49240,109449696819400
+
+2020-04-11 20:58:44,056 WARN max re-push times reached, retry times 2, key: 192.168.0.3,49240,109449696819400
+
+2020-04-11 20:58:45,909 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:14:28,110 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:14:28,110 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:62395, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,62395,110413713260100
+
+2020-04-11 21:14:28,110 INFO send udp packet: 192.168.0.3,62395,110413713260100
+
+2020-04-11 21:14:28,247 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:14:38,131 INFO retry to push data, key: 192.168.0.3,62395,110413713260100
+
+2020-04-11 21:14:38,131 INFO send udp packet: 192.168.0.3,62395,110413713260100
+
+2020-04-11 21:14:42,622 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:14:48,150 INFO retry to push data, key: 192.168.0.3,62395,110413713260100
+
+2020-04-11 21:14:48,150 WARN max re-push times reached, retry times 2, key: 192.168.0.3,62395,110413713260100
+
+2020-04-11 21:14:49,038 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:23:26,043 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:23:26,153 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:23:26,153 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:52397, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,52397,110951735780200
+
+2020-04-11 21:23:26,153 INFO send udp packet: 192.168.0.3,52397,110951735780200
+
+2020-04-11 21:23:36,161 INFO retry to push data, key: 192.168.0.3,52397,110951735780200
+
+2020-04-11 21:23:36,162 INFO send udp packet: 192.168.0.3,52397,110951735780200
+
+2020-04-11 21:23:43,250 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:23:46,165 INFO retry to push data, key: 192.168.0.3,52397,110951735780200
+
+2020-04-11 21:23:46,165 WARN max re-push times reached, retry times 2, key: 192.168.0.3,52397,110951735780200
+
+2020-04-11 21:23:52,610 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:25:18,611 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:25:20,383 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:25:20,383 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:57578, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,57578,111065961109800
+
+2020-04-11 21:25:20,383 INFO send udp packet: 192.168.0.3,57578,111065961109800
+
+2020-04-11 21:25:30,385 INFO retry to push data, key: 192.168.0.3,57578,111065961109800
+
+2020-04-11 21:25:30,385 INFO send udp packet: 192.168.0.3,57578,111065961109800
+
+2020-04-11 21:25:40,387 INFO retry to push data, key: 192.168.0.3,57578,111065961109800
+
+2020-04-11 21:25:40,387 WARN max re-push times reached, retry times 2, key: 192.168.0.3,57578,111065961109800
+
+2020-04-11 21:25:54,609 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:25:58,646 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:27:37,205 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:27:47,964 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:29:24,498 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:29:24,653 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:29:24,654 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:57581, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,57581,111310222381500
+
+2020-04-11 21:29:24,654 INFO send udp packet: 192.168.0.3,57581,111310222381500
+
+2020-04-11 21:29:24,669 INFO received ack: {"type": "push-ack", "lastRefTime":"111310222381500", "data":""} from: 192.168.0.3:57581, cost: 15 ms, unacked: 0, total push: 16
+
+2020-04-11 21:29:39,030 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:29:42,911 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:38:18,360 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:38:18,360 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:57895, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,57895,111843908470300
+
+2020-04-11 21:38:18,360 INFO send udp packet: 192.168.0.3,57895,111843908470300
+
+2020-04-11 21:38:18,476 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:38:28,363 INFO retry to push data, key: 192.168.0.3,57895,111843908470300
+
+2020-04-11 21:38:28,363 INFO send udp packet: 192.168.0.3,57895,111843908470300
+
+2020-04-11 21:38:33,641 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:38:38,365 INFO retry to push data, key: 192.168.0.3,57895,111843908470300
+
+2020-04-11 21:38:38,365 WARN max re-push times reached, retry times 2, key: 192.168.0.3,57895,111843908470300
+
+2020-04-11 21:38:40,926 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:39:28,537 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:39:28,538 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:63246, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,63246,111914083473800
+
+2020-04-11 21:39:28,538 INFO send udp packet: 192.168.0.3,63246,111914083473800
+
+2020-04-11 21:39:28,546 INFO received ack: {"type": "push-ack", "lastRefTime":"111914083473800", "data":""} from: 192.168.0.3:63246, cost: 8 ms, unacked: 0, total push: 18
+
+2020-04-11 21:39:40,730 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:39:40,730 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:63246, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,63246,111926275892500
+
+2020-04-11 21:39:40,730 INFO send udp packet: 192.168.0.3,63246,111926275892500
+
+2020-04-11 21:39:40,734 INFO received ack: {"type": "push-ack", "lastRefTime":"111926275892500", "data":""} from: 192.168.0.3:63246, cost: 4 ms, unacked: 0, total push: 19
+
+2020-04-11 21:41:26,635 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:44:55,224 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:49:08,236 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:49:15,677 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:55:42,200 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:55:42,315 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 21:55:57,024 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 21:56:03,518 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 22:00:00,688 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:00:01,024 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 22:00:01,025 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:53347, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,53347,113146540574200
+
+2020-04-11 22:00:01,025 INFO send udp packet: 192.168.0.3,53347,113146540574200
+
+2020-04-11 22:00:11,030 INFO retry to push data, key: 192.168.0.3,53347,113146540574200
+
+2020-04-11 22:00:11,030 INFO send udp packet: 192.168.0.3,53347,113146540574200
+
+2020-04-11 22:00:14,273 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:00:17,839 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 22:00:21,035 INFO retry to push data, key: 192.168.0.3,53347,113146540574200
+
+2020-04-11 22:00:21,035 WARN max re-push times reached, retry times 2, key: 192.168.0.3,53347,113146540574200
+
+2020-04-11 22:09:58,073 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:11:21,355 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:12:13,716 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:12:13,838 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 22:12:13,839 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:60590, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,60590,113879331389300
+
+2020-04-11 22:12:13,839 INFO send udp packet: 192.168.0.3,60590,113879331389300
+
+2020-04-11 22:12:23,865 INFO retry to push data, key: 192.168.0.3,60590,113879331389300
+
+2020-04-11 22:12:23,865 INFO send udp packet: 192.168.0.3,60590,113879331389300
+
+2020-04-11 22:12:26,645 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 22:12:30,519 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:12:33,868 INFO retry to push data, key: 192.168.0.3,60590,113879331389300
+
+2020-04-11 22:12:33,868 WARN max re-push times reached, retry times 2, key: 192.168.0.3,60590,113879331389300
+
+2020-04-11 22:40:03,456 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-04-11 22:40:18,466 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-04-11 22:40:51,474 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-04-11 22:42:33,503 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-04-11 22:42:48,513 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-04-11 22:44:04,975 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-04-11 22:53:34,245 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:53:49,282 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:57:03,193 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:57:39,331 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:57:54,346 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:58:54,335 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:59:34,366 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 22:59:49,375 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:01:16,384 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:01:34,413 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:01:49,423 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:05:19,027 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:05:34,491 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:06:29,519 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:06:44,537 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:07:35,165 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:10:46,815 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:10:46,815 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49796, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49796,117392183466000
+
+2020-04-11 23:10:46,815 INFO send udp packet: 192.168.0.3,49796,117392183466000
+
+2020-04-11 23:10:46,821 INFO received ack: {"type": "push-ack", "lastRefTime":"117392183466000", "data":""} from: 192.168.0.3:49796, cost: 6 ms, unacked: 0, total push: 22
+
+2020-04-11 23:11:01,844 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:11:01,844 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49796, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49796,117407212170400
+
+2020-04-11 23:11:01,844 INFO send udp packet: 192.168.0.3,49796,117407212170400
+
+2020-04-11 23:11:01,870 INFO received ack: {"type": "push-ack", "lastRefTime":"117407212170400", "data":""} from: 192.168.0.3:49796, cost: 26 ms, unacked: 0, total push: 23
+
+2020-04-11 23:12:32,332 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:12:32,332 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49796, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49796,117497696550600
+
+2020-04-11 23:12:32,332 INFO send udp packet: 192.168.0.3,49796,117497696550600
+
+2020-04-11 23:12:32,335 INFO received ack: {"type": "push-ack", "lastRefTime":"117497696550600", "data":""} from: 192.168.0.3:49796, cost: 3 ms, unacked: 0, total push: 24
+
+2020-04-11 23:12:56,857 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:12:56,857 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49796, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49796,117522220679500
+
+2020-04-11 23:12:56,857 INFO send udp packet: 192.168.0.3,49796,117522220679500
+
+2020-04-11 23:12:56,858 INFO received ack: {"type": "push-ack", "lastRefTime":"117522220679500", "data":""} from: 192.168.0.3:49796, cost: 1 ms, unacked: 0, total push: 25
+
+2020-04-11 23:13:11,863 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:13:11,863 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49796, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49796,117537226937500
+
+2020-04-11 23:13:11,863 INFO send udp packet: 192.168.0.3,49796,117537226937500
+
+2020-04-11 23:13:11,866 INFO received ack: {"type": "push-ack", "lastRefTime":"117537226937500", "data":""} from: 192.168.0.3:49796, cost: 3 ms, unacked: 0, total push: 26
+
+2020-04-11 23:13:51,311 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:13:51,311 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:49796, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,49796,117576672745800
+
+2020-04-11 23:13:51,311 INFO send udp packet: 192.168.0.3,49796,117576672745800
+
+2020-04-11 23:13:51,312 INFO received ack: {"type": "push-ack", "lastRefTime":"117576672745800", "data":""} from: 192.168.0.3:49796, cost: 1 ms, unacked: 0, total push: 27
+
+2020-04-11 23:16:20,801 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:16:20,947 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:16:40,241 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:16:47,843 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:19:19,782 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:19:27,531 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:19:44,789 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:19:59,800 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:20:04,343 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:20:19,800 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:20:23,569 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:20:39,807 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:20:51,537 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:21:09,817 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:21:24,836 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:21:39,095 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:21:54,834 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:22:09,843 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:22:24,495 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:24:02,176 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:24:02,176 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51606, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51606,118187516820400
+
+2020-04-11 23:24:02,176 INFO send udp packet: 192.168.0.3,51606,118187516820400
+
+2020-04-11 23:24:02,182 INFO received ack: {"type": "push-ack", "lastRefTime":"118187516820400", "data":""} from: 192.168.0.3:51606, cost: 6 ms, unacked: 0, total push: 28
+
+2020-04-11 23:24:17,189 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:24:17,189 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51606, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51606,118202529558100
+
+2020-04-11 23:24:17,189 INFO send udp packet: 192.168.0.3,51606,118202529558100
+
+2020-04-11 23:24:17,193 INFO received ack: {"type": "push-ack", "lastRefTime":"118202529558100", "data":""} from: 192.168.0.3:51606, cost: 4 ms, unacked: 0, total push: 29
+
+2020-04-11 23:24:34,857 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:24:34,857 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51606, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51606,118220197295100
+
+2020-04-11 23:24:34,857 INFO send udp packet: 192.168.0.3,51606,118220197295100
+
+2020-04-11 23:24:34,861 INFO received ack: {"type": "push-ack", "lastRefTime":"118220197295100", "data":""} from: 192.168.0.3:51606, cost: 4 ms, unacked: 0, total push: 30
+
+2020-04-11 23:25:02,196 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:25:02,196 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51606, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51606,118247535145900
+
+2020-04-11 23:25:02,196 INFO send udp packet: 192.168.0.3,51606,118247535145900
+
+2020-04-11 23:25:02,198 INFO received ack: {"type": "push-ack", "lastRefTime":"118247535145900", "data":""} from: 192.168.0.3:51606, cost: 2 ms, unacked: 0, total push: 31
+
+2020-04-11 23:25:17,204 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:25:17,204 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51606, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51606,118262542511500
+
+2020-04-11 23:25:17,204 INFO send udp packet: 192.168.0.3,51606,118262542511500
+
+2020-04-11 23:25:17,207 INFO received ack: {"type": "push-ack", "lastRefTime":"118262542511500", "data":""} from: 192.168.0.3:51606, cost: 3 ms, unacked: 0, total push: 32
+
+2020-04-11 23:25:59,240 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:25:59,240 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:51606, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,51606,118304577169000
+
+2020-04-11 23:25:59,240 INFO send udp packet: 192.168.0.3,51606,118304577169000
+
+2020-04-11 23:25:59,245 INFO received ack: {"type": "push-ack", "lastRefTime":"118304577169000", "data":""} from: 192.168.0.3:51606, cost: 5 ms, unacked: 0, total push: 33
+
+2020-04-11 23:26:45,065 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:26:48,636 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:28:29,990 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:28:34,149 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:29:32,026 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:29:32,026 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:54087, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,54087,118517355428000
+
+2020-04-11 23:29:32,026 INFO send udp packet: 192.168.0.3,54087,118517355428000
+
+2020-04-11 23:29:32,035 INFO received ack: {"type": "push-ack", "lastRefTime":"118517355428000", "data":""} from: 192.168.0.3:54087, cost: 9 ms, unacked: 0, total push: 34
+
+2020-04-11 23:29:47,172 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:29:47,174 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:54087, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,54087,118532502202400
+
+2020-04-11 23:29:47,174 INFO send udp packet: 192.168.0.3,54087,118532502202400
+
+2020-04-11 23:29:47,179 INFO received ack: {"type": "push-ack", "lastRefTime":"118532502202400", "data":""} from: 192.168.0.3:54087, cost: 5 ms, unacked: 0, total push: 35
+
+2020-04-11 23:35:12,789 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:35:12,790 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:54087, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,54087,118858106429200
+
+2020-04-11 23:35:12,790 INFO send udp packet: 192.168.0.3,54087,118858106429200
+
+2020-04-11 23:35:12,808 INFO received ack: {"type": "push-ack", "lastRefTime":"118858106429200", "data":""} from: 192.168.0.3:54087, cost: 18 ms, unacked: 0, total push: 36
+
+2020-04-11 23:35:25,148 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:35:25,148 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:54087, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,54087,118870463742600
+
+2020-04-11 23:35:25,148 INFO send udp packet: 192.168.0.3,54087,118870463742600
+
+2020-04-11 23:35:25,149 INFO received ack: {"type": "push-ack", "lastRefTime":"118870463742600", "data":""} from: 192.168.0.3:54087, cost: 1 ms, unacked: 0, total push: 37
+
+2020-04-11 23:37:43,250 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:37:43,251 INFO serviceName: DEFAULT_GROUP@@sca-provider changed, schedule push for: 192.168.0.3:54087, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.3,54087,119008561943400
+
+2020-04-11 23:37:43,251 INFO send udp packet: 192.168.0.3,54087,119008561943400
+
+2020-04-11 23:37:43,409 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+
+2020-04-11 23:37:53,252 INFO retry to push data, key: 192.168.0.3,54087,119008561943400
+
+2020-04-11 23:37:53,252 INFO send udp packet: 192.168.0.3,54087,119008561943400
+
+2020-04-11 23:37:59,720 INFO DEFAULT_GROUP@@sca-provider is changed, add it to push queue.
+
+2020-04-11 23:38:03,256 INFO retry to push data, key: 192.168.0.3,54087,119008561943400
+
+2020-04-11 23:38:03,256 WARN max re-push times reached, retry times 2, key: 192.168.0.3,54087,119008561943400
+
+2020-04-11 23:38:07,913 INFO DEFAULT_GROUP@@sca-customer is changed, add it to push queue.
+

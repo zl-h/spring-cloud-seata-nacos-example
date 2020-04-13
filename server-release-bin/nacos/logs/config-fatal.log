@@ -1,0 +1,30 @@
+2020-04-10 11:59:02,936 WARN [master-db] jdbc:mysql://127.0.0.1:8306/nacos_config?characterEncoding=UTF-8&useUnicode=true&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+
+2020-04-10 11:59:04,896 WARN isQuickStart:false
+
+2020-04-10 11:59:05,371 WARN useAddressServer:true
+
+2020-04-10 12:04:32,770 WARN [master-db] jdbc:mysql://127.0.0.1:8306/nacos_config?characterEncoding=UTF-8&useUnicode=true&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+
+2020-04-10 12:04:34,641 WARN isQuickStart:false
+
+2020-04-10 12:04:35,239 WARN useAddressServer:true
+
+2020-04-10 13:06:57,018 WARN [master-db] jdbc:mysql://127.0.0.1:8306/nacos_config?characterEncoding=UTF-8&useUnicode=true&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+
+2020-04-10 13:06:58,633 WARN isQuickStart:false
+
+2020-04-10 13:06:59,093 WARN useAddressServer:true
+
+2020-04-10 14:51:42,538 WARN [master-db] jdbc:mysql://127.0.0.1:8306/nacos_config?characterEncoding=UTF-8&useUnicode=true&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+
+2020-04-10 14:51:43,843 WARN isQuickStart:false
+
+2020-04-10 14:51:44,225 WARN useAddressServer:true
+
+2020-04-10 14:54:48,690 WARN [master-db] jdbc:mysql://127.0.0.1:8306/nacos_config?characterEncoding=UTF-8&useUnicode=true&autoReconnect=true&serverTimezone=GMT%2B8&useSSL=false
+
+2020-04-10 14:54:50,014 WARN isQuickStart:false
+
+2020-04-10 14:54:50,330 WARN useAddressServer:true
+

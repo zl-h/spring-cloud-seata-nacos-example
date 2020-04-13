@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: Hzl206135!
+    url: jdbc:mysql://localhost:3306/vhr?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+  rabbitmq:
+    username: admin
+    password: admin
+    host: 106.12.28.188
+    publisher-confirms: true
+    publisher-returns: true
+  redis:
+    host: 106.12.28.188
+    database: 0
+    port: 6379
+    password: hzl206135
+  cache:
+    cache-names: menus_cache
+server:
+  port: 8081
+  compression:
+    enabled: true
+fastdfs:
+  nginx:
+    host: http://192.168.91.128/
